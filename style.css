@@ -33,7 +33,7 @@ figcaption {
 }
 
 div {
-  h
+  align-content: horizontal;
   background-color: blue;
   text-align: center;
   width: 25%;
