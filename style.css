@@ -18,5 +18,11 @@ a{
   background-color: #395870
 }
 figcaption {
-  
+ font-size: 8;
+ align-content: center;
+}
+
+#featured-property > p {
+  width: 800px;
+  text-align: center;
 }
