@@ -31,3 +31,9 @@ figcaption {
   display: block;
   float: left;
 }
+
+div {
+  background-color: blue;
+  text-align: center;
+  width: 25%;
+}
